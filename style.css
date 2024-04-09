@@ -186,7 +186,7 @@
     background-color: white;
   }
   .shadow.one {
-    background-image: url(https://github.com/MrDimitris/cool-menu.github.io/blob/main/images/background.jpg?raw=true);
+    background-image: url("https://github.com/MrDimitris/cool-menu.github.io/blob/main/images/background.jpg?raw=true");
     background-color: rgb(228,226,227);
     background-size: contain;
     background-repeat: no-repeat;
